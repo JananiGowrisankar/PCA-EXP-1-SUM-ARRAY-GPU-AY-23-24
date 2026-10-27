@@ -1,4 +1,4 @@
-<img width="1695" height="235" alt="image" src="https://github.com/user-attachments/assets/32002890-5913-4f57-811d-b5478c6d590b" /># PCA: EXP-1  SUM ARRAY GPU
+# PCA: EXP-1  SUM ARRAY GPU
 <h3>NAME:Janani G</h3>
 <h3>REGISTER NO:212224100022</h3>
 <h3>EX. NO:01</h3>
